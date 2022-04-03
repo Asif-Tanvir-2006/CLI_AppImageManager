@@ -22,7 +22,7 @@ python AIM.py ls
 Brave_Browser
 python AIM.py "uninstall=Brave_Browser"
 ## Note
-**For further clarification,refer to this YouTube Video - https://www.youtube.com/watch?v=NZY4Pzg7pFk**
+**For further clarification, refer to this YouTube Video - https://www.youtube.com/watch?v=NZY4Pzg7pFk**
 
 #### Thank you
 
