@@ -11,7 +11,7 @@
 * uninstall (required during uninstallation)
 * ls (lists all the AppImages/executables that had been installed via the AIM.py python script)
 
-### Installation
+### Installation of AppImage/executable file
 **python AIM.py "exec=/path/to/executable/file" "icon=/path/to/icon/file" "name=the name of your program(can be anything)" "category=Internet/Gaming or anything else(u get it right? :))"**
 
 
@@ -19,7 +19,7 @@
 **python AIM.py ls**
 
 
-### Uninstallation
+### Uninstallation of AppImage/executable file
 **python AIM.py ls**
 
 
