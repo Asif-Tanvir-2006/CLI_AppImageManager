@@ -12,15 +12,15 @@
 * ls (lists all the AppImages/executables that had been installed via the AIM.py python script)
 
 ### Installation
-**python AIM.py "exec=/path/to/executable/file" "icon=/path/to/icon/file" "name=the name of your program(can be anything)" "category=Internet/Gaming or anything else(u get it right? :))"
+**python AIM.py "exec=/path/to/executable/file" "icon=/path/to/icon/file" "name=the name of your program(can be anything)" "category=Internet/Gaming or anything else(u get it right? :))"**
 
 
 ### Listing all AppImages that had been installed via the script
-**python AIM.py ls
+**python AIM.py ls**
 
 
 ### Uninstallation
-**python AIM.py ls
+**python AIM.py ls**
 
 
 (Checks the list of programs that's been installed (will only list those programs that were installed using AIM.py script))
@@ -29,10 +29,10 @@
 ##### Example output
 
 
-**Brave_Browser
+**Brave_Browser**
 
 
-**python AIM.py "uninstall=Brave_Browser"
+**python AIM.py "uninstall=Brave_Browser"**
 
 
 ## Note
